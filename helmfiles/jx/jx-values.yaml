@@ -40,7 +40,7 @@ jxRequirements:
   ingress:
     domain: change.me
     kind: ingress
-    namespaceSubDomain: -jx.
+    namespaceSubDomain: .
     tls:
       email: ""
       enabled: false
