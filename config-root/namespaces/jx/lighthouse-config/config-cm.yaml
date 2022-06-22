@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - hisham-vaporio/jx3-kubernetes
-      target_url: http://lighthouse./merge/status
+      target_url: http://lighthouse.192.168.1.240.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
